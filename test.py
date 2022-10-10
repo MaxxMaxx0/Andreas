@@ -1,2 +1,3 @@
 print("Starter")
-print("Hello World!")
+
+print("Noe annet")
