@@ -1,1 +1,3 @@
 Hei hei!
+
+Nå har jeg endret denne filen, kanskje det dukker opp på github?
